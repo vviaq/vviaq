@@ -3,4 +3,4 @@
 <br>
 
 ## Hi.
-## Danya, 20yo web-dev
+## Danya/20yo/learning web
